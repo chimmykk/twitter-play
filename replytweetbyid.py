@@ -5,11 +5,11 @@ CONSUMER_KEY = ""
 CONSUMER_SEC = ""
 
 # Access token and Secret
-AUTH_ACC = "1576014870084030465-eNPRHtueYUoaxKlYJKWVgtnxgzk1Jq"
-AUTH_SEC = "xD9IXgJjthdxLzqn9b76i1k0GtKYT0TPeyyMdEIPhHOSl"
+AUTH_ACC = ""
+AUTH_SEC = ""
 
 # Replace with your actual bearer token
-BEARER = "AAAAAAAAAAAAAAAAAAAAACzGoQEAAAAAPBUyxZyXrtNzab8B3guBR9e994k%3DDieBbwNezSIZ26haV9I17LcWMpOf2z7nPkC9gYKFJEwL0AnTF3"
+BEARER = ""
 
 # Authenticate using API v1.1
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SEC)
