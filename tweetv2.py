@@ -3,7 +3,7 @@ import tweepy
 import requests
 
 # Set bearer token
-bearer_token = "AAAAAAAAAAAAAAAAAAAAACzGoQEAAAAAPBUyxZyXrtNzab8B3guBR9e994k%3DDieBbwNezSIZ26haV9I17LcWMpOf2z7nPkC9gYKFJEwL0AnTF3"
+bearer_token = ""
 
 # Set endpoint URL
 endpoint_url = "https://api.twitter.com/2/tweets/search/recent"
